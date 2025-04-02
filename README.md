@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, hello and hi
+## I’m beginner in coding.
+## I wanna be the coolset guy in the GameDev.
+## Have a nice day and good luck!
+
 
 <!--
 **KarpX/KarpX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
