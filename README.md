@@ -1,7 +1,5 @@
 ## Hi, hello and hi
-## I’m beginner in coding.
-## I wanna be the coolset guy in the GameDev.
-## Have a nice day and good luck!
+Computer science student
 
 
 <!--
